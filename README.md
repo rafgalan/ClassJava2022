@@ -9,4 +9,5 @@ I am here to this coding bootcamp in order to:
     <li>Meet new people with same interests and passion about programming.</li>
     <li>Become a junior level full-stack developer</li>
 </ol>
-Here you can find and contact me : [Andreas Tsarouchas](https://github.com/Andreastsar)
+Here you can find and contact me :
+[Andreas Tsarouchas](https://github.com/Andreastsar)
