@@ -5,5 +5,5 @@
 - i am *Jenny Rapti* 
 - Currently working on tech support 🍏   
 - Love hiking 🧗 & collecting rear plants🌿   
-- you can find my on Linkedin (https://www.  linkedin.com/in/jenny-rapti-15002114b/)
-
+- you can find my on [Linkedin] (https://www.  linkedin.com/in/jenny-rapti-15002114b/)
+![jpg](elsa.jpg)
