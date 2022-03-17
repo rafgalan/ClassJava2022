@@ -1,6 +1,6 @@
 # ClassJava2022
  This is a repo for team Java 2022.
-## Yourwash C. Azakas
+### Yourwash C. Azakas Introduction
 ![alt text](C:\Users\georg\Documents\GitHub\ClassJava2022\img\Geo.jpg)
 
-**Είμαι ο Γιώργος. Εχω πράσινη ζώνη στο TAE KWON DO και έχω τεραματίσει και τα τρία επίπεδα δυσκολίας στον ταύρο του λούνα παρκ νέων Πόρων. Κορίτσια σας καταλαβαίνω, αλλά παρακαλώ κρατηθείτε. Παλικάρια το μονοπάτι που έχω χαράξι αφιλόξενο, αλλά όπως ο αρχηγός αστακός πάει πρώτος αντίθετα στο ρεύμα, για να μπορέσουν οι υπόλοιποι αστακοί, αστακίνες και αστακινάκια να ακολουθήσουν, έτσι και εγώ είμαι εδώ για να σας βοηθήσω.**
+**I am Yourwash. I am a green belt in TAE KWON DO and I have completed all three levels of dificulty at new Poruses, luna parks bull. Girls i feel you, but please calm your horses. Pal-e-carya the path I have carved is unhospitable, but like a lobster leader stands first against the current, in order for the rest losbsters, lobsterines and lobsterlittles to follow, as will I in order to help you.**
