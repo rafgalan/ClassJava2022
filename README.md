@@ -7,7 +7,7 @@ _Haris Veraros_
 I'm Haris Veraros
 I work as electronics pcb Boards production engineer
 
-and I to want be a software developer!
+and I want to be a software developer!
 
 my github profile is:
 https://github.com/Haris-v
